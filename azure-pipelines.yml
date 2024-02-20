@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'Aditya Pipelines'
+pool: 'Default'
 
 steps:
 - task: NodeTool@0
